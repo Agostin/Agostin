@@ -1,10 +1,10 @@
 ### Hi there, I'm Agostino Convertini 👋
 
 A curious web developer based in Rome :it:.
-I like to use my magic powers in frontend world 🧙‍♂️, but I don't denigrate the dark side of the back end 🔮.
+I like to use my magic powers in frontend world 🧙‍♂️, but I'm also interested in the dark side of the back end 🔮.
 
 
-Good to know about me:
+### Good to know about me:
 
 - Addicted to 🎶, 🏃, 🏐, 🎮, 🧱, :gun:
 - In love with 👨‍🍳, :brain:📚, 🍺
