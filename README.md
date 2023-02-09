@@ -6,9 +6,7 @@ I like to use my magic powers in frontend world 🧙‍♂️, but I'm also inte
 
 ### Good to know about me:
 
-- Addicted to 🎶, 🏃, 🏐, 🎮, 🧱, :gun:
+- Addicted to 🎶, 🏃, 🏐, 🎮, 🧱
 - In love with 👨‍🍳, :brain:📚, 🍺
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Agostin&show_icons=true&theme=react&count_private=true&hide=stars,issues)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agostin&layout=compact)
